@@ -1,0 +1,27 @@
+/* CLASS ROW */
+
+.row {
+    padding: 15px;
+}
+
+.content_satu {
+    padding: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.nilai_akhir {
+    background-color: rgb(230, 16, 16);
+    padding: 15px;
+    color: white;
+    text-align: center;
+    font-size: 14px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+}
+
+.content_satu a {
+    color: #ffffff;
+}
+
+/* CLASS ROW */
